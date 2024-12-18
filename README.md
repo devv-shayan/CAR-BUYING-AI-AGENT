@@ -12,14 +12,31 @@
 | Analyzes data to make informed decisions | Can only respond when given a prompt |
 | Can tailor its technology to fit end goals | A better option for content creation |
 
+---
 
+# **Tool Calling: A Core Feature of Agentic AI**
+
+### **Tool calling enables AI agents to autonomously select and utilize external tools or APIs to accomplish tasks beyond their inherent capabilities.**
+
+### **Significance in Agentic AI**
+- **Enhances problem-solving** by allowing AI to access specialized resources.
+- **Facilitates dynamic decision-making** through real-time data retrieval and processing.
+- **Expands the functional scope** of AI agents, enabling them to perform complex, multi-step operations.
+
+### **Example**
+An AI agent tasked with **planning a trip** can autonomously access:
+- Flight booking **APIs**
+- Hotel reservation systems
+- Local event databases
+
+to create a **comprehensive itinerary**.
 
 
 ---
 
-### Personalized Car Buying AI Agent
+# Personalized Car Buying AI Agent
 
-#### Introduction
+## Introduction
 
 Imagine a world where online car shopping is effortless, personalized, and highly efficient. The Personalized Car Buying AI Agent envisions transforming this reality by leveraging advanced artificial intelligence to streamline the entire car purchasing process. While still in the conceptual phase, this innovative AI-driven assistant aims to alleviate the common frustrations associated with online car shopping, making it a seamless and enjoyable experience for users.
 
@@ -29,7 +46,7 @@ The primary goal of the Personalized Car Buying AI Agent is to reduce the comple
 
 ---
 
-### Core Functionality
+## Core Functionality
 
 #### 1. Understanding User Needs
 - **Conversational Interaction:** The agent engages users in a dynamic conversation to gather detailed information about their car preferences, budget, desired features, and any specific requirements. This interactive approach goes beyond traditional forms, allowing for a more nuanced understanding of what the user truly wants.
@@ -50,7 +67,7 @@ The primary goal of the Personalized Car Buying AI Agent is to reduce the comple
 
 ---
 
-### Interactive and Iterative Process
+## Interactive and Iterative Process
 
 The Personalized Car Buying AI Agent is designed to be highly interactive and iterative, ensuring that users remain in control of their car-buying journey. Key aspects include:
 
@@ -60,7 +77,7 @@ The Personalized Car Buying AI Agent is designed to be highly interactive and it
 
 ---
 
-### Benefits to Users
+## Benefits to Users
 
 - **Time Efficiency:** Automates the tedious aspects of online car shopping, saving users valuable time.
 - **Personalization:** Delivers highly tailored recommendations that align closely with individual preferences.
@@ -70,10 +87,10 @@ The Personalized Car Buying AI Agent is designed to be highly interactive and it
 
 ---
 
-### FAQs
+## FAQs
 
 #### What could the Personalized Car Buying AI Agent do in the future?  
-The Car Buying AI Agent is envisioned as an advanced digital assistant designed to revolutionize how users make purchasing decisions. Initially imagined to focus on car purchases from platforms like AutoTrader, it employs cutting-edge technologies such as LangGraph and Large Language Models (LLMs). Its potential lies in simplifying the decision-making process by dynamically understanding user preferences, optimizing filters, and delivering tailored recommendations.
+The Car Buying AI Agent is envisioned as an advanced digital assistant designed to revolutionize how users make purchasing decisions. Initially imagined to focus on car purchases from CarZoomo, it employs cutting-edge technologies such as LangGraph and Large Language Models (LLMs). Its potential lies in simplifying the decision-making process by dynamically understanding user preferences, optimizing filters, and delivering tailored recommendations.
 
 #### How might the Agent understand user preferences in the future?  
 The envisioned Agent would leverage LLM-driven interactions to engage users in a natural, conversational manner. Users could describe their ideal product, share their budget, and specify any unique requirements. The Agent would process this input to craft precise, personalized search criteria, transforming vague preferences into actionable insights.
