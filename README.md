@@ -4,6 +4,16 @@
 | **Generative AI** | Focus on creating content from data.    | **Creating content** (text, images, code, videos) | Empowered creativity and productivity.             |
 | **Agentic AI**    | Focus on autonomous actions and learning iteratively. | **Autonomous actions**          | AI becomes proactive, managing complex tasks.      |
 
+---
+
+| **Agentic AI**                      | **Generative AI**                    |
+|-------------------------------------|--------------------------------------|
+| Performs tasks anonymously           | Requires human intervention          |
+| Analyzes data to make informed decisions | Can only respond when given a prompt |
+| Can tailor its technology to fit end goals | A better option for content creation |
+
+
+
 
 ---
 
