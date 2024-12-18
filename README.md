@@ -1,3 +1,6 @@
+# **INTRO TO AGENTIC AI**
+
+
 | **Wave**         | **Focus**                                | **Key Action**                  | **Why It Mattered**                                  |
 |------------------|---------------------------------------|--------------------------------|----------------------------------------------------|
 | **Predictive AI** | Focus on analyzing data to predict outcomes. | **Analyze past data**           | Enabled data-driven decision-making.                |
@@ -14,7 +17,7 @@
 
 ---
 
-# **Tool Calling: A Core Feature of Agentic AI**
+## **Tool Calling: A Core Feature of Agentic AI**
 
 ### **Tool calling enables AI agents to autonomously select and utilize external tools or APIs to accomplish tasks beyond their inherent capabilities.**
 
@@ -34,7 +37,7 @@ to create a **comprehensive itinerary**.
 
 ---
 
-# Personalized Car Buying AI Agent
+# *Personalized Car Buying AI Agent*
 
 ## Introduction
 
@@ -62,9 +65,12 @@ The primary goal of the Personalized Car Buying AI Agent is to reduce the comple
 - **Database Integration:** Alternatively, the agent can utilize a centralized database of car listings (e.g., CarZoomo). This approach enables faster querying and reduces reliance on real-time scraping, offering a more scalable and robust solution for data retrieval.
 
 #### 4. Intelligent Summarization and Insights
-- **Curated Listings:** Instead of presenting users with an overwhelming number of listings, the agent offers a curated selection of top matches that best fit the user's criteria. This streamlined approach helps users focus on the most promising options.
-- **Market Insights:** Beyond individual listings, the agent provides general information about car models, including market reliability, common issues, and overall value. This comprehensive overview equips users with the knowledge needed to make informed decisions.
-
+- **Curated Listings:** Instead of presenting users with an overwhelming number of listings, the agent will offers a curated selection of top matches that best fit the user's criteria. This streamlined approach helps users focus on the most promising options.
+- Price trends
+- Comparative recommendations
+- Reliability of the model
+- Market trends
+- Common Issues
 ---
 
 ## Interactive and Iterative Process
@@ -84,6 +90,39 @@ The Personalized Car Buying AI Agent is designed to be highly interactive and it
 - **Informed Decisions:** Combines listing details with broader market information to empower users with comprehensive knowledge.
 - **Ease of Use:** Offers an intuitive, conversational interface that simplifies the search and evaluation process.
 - **Scalability:** Designed to expand beyond cars, the agent can serve as a template for intelligent assistants in various e-commerce domains.
+
+---
+## Tools and Technologies
+
+### **LangGraph**  
+This tool is used for building and managing workflows, especially in the context of conversational agents.  
+
+
+### **LangChain and Langchain-OpenAI**  
+These frameworks are used for developing applications powered by **Language Models (LLMs)**.  
+- **Langchain-OpenAI** specifically works with OpenAI's APIs.  
+
+
+### **Langchain-Community**  
+This package offers **extra tools and integrations** for LangChain.  
+
+
+### **LLM-based Intelligence**  
+LLMs are used throughout the process to:  
+- Understand user needs.  
+- Refine filters.  
+- Summarize listings.  
+- Provide insights, including general market reliability.  
+
+The agent will use **GPT-4o-mini** from OpenAI.  
+
+
+### **Web Scraping and Integration**  
+The agent interfaces with platforms like **CarZoomo** to fetch and present relevant listings or we can get data from database.  
+
+  - **Playwright** for browser automation.  
+  - **lxml** for parsing HTML.  
+  - **Vector DB of MONGODB**
 
 ---
 
