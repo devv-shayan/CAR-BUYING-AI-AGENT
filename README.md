@@ -1,3 +1,9 @@
+| **Wave**         | **Focus**                                | **Key Action**                  | **Why It Mattered**                                  |
+|------------------|---------------------------------------|--------------------------------|----------------------------------------------------|
+| **Predictive AI** | Focus on analyzing data to predict outcomes. | **Analyze past data**           | Enabled data-driven decision-making.                |
+| **Generative AI** | Focus on creating content from data.    | **Creating content** (text, images, code, videos) | Empowered creativity and productivity.             |
+| **Agentic AI**    | Focus on autonomous actions and learning iteratively. | **Autonomous actions**          | AI becomes proactive, managing complex tasks.      |
+
 
 ---
 
